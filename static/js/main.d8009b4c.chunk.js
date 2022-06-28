@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-complete-guide"]=this["webpackJsonpreact-complete-guide"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var s=c(3),i=c.n(s),n=(c(12),c(0));var r=function(){return Object(n.jsxs)("div",{children:[Object(n.jsx)("h2",{children:"Let's get started!"}),Object(n.jsx)("p",{children:"This is also visible!"})]})};i.a.createRoot(document.getElementById("root")).render(Object(n.jsx)(r,{}))}},[[14,1,2]]]);
-//# sourceMappingURL=main.d8009b4c.chunk.js.map
