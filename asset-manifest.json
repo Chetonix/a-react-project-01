@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/a-react-project-01/static/css/main.6a326aa7.chunk.css",
-    "main.js": "/a-react-project-01/static/js/main.45b4f60e.chunk.js",
-    "main.js.map": "/a-react-project-01/static/js/main.45b4f60e.chunk.js.map",
+    "main.css": "/a-react-project-01/static/css/main.a19cfaf0.chunk.css",
+    "main.js": "/a-react-project-01/static/js/main.1a2e0a44.chunk.js",
+    "main.js.map": "/a-react-project-01/static/js/main.1a2e0a44.chunk.js.map",
     "runtime-main.js": "/a-react-project-01/static/js/runtime-main.26c19a24.js",
     "runtime-main.js.map": "/a-react-project-01/static/js/runtime-main.26c19a24.js.map",
     "static/js/2.87bab610.chunk.js": "/a-react-project-01/static/js/2.87bab610.chunk.js",
     "static/js/2.87bab610.chunk.js.map": "/a-react-project-01/static/js/2.87bab610.chunk.js.map",
     "index.html": "/a-react-project-01/index.html",
-    "static/css/main.6a326aa7.chunk.css.map": "/a-react-project-01/static/css/main.6a326aa7.chunk.css.map",
+    "static/css/main.a19cfaf0.chunk.css.map": "/a-react-project-01/static/css/main.a19cfaf0.chunk.css.map",
     "static/js/2.87bab610.chunk.js.LICENSE.txt": "/a-react-project-01/static/js/2.87bab610.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.26c19a24.js",
     "static/js/2.87bab610.chunk.js",
-    "static/css/main.6a326aa7.chunk.css",
-    "static/js/main.45b4f60e.chunk.js"
+    "static/css/main.a19cfaf0.chunk.css",
+    "static/js/main.1a2e0a44.chunk.js"
   ]
 }
