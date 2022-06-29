@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import './ExpenseForm.css';
 
-export default function ExpenseForm() {
+export default function ExpenseForm(props) {
 
     // const [userInput, setUserInput] = useState({
     //     enteredTitle: '',
