@@ -10,10 +10,10 @@ export default function ExpenseItem(props) {
     // const expenseAmount = 294.56;
     const [title, setTitle] = useState(props.title);
     console.log('ExpenseItem evaluated by React');
-  
+
     const clickHandler = () => {
-    setTitle('Updated!');
-    console.log(title);
+        setTitle('Updated!');
+        console.log(title);
     };
 
     return (
@@ -25,6 +25,6 @@ export default function ExpenseItem(props) {
                 <button onClick={clickHandler}>Change Title</button>
             </div>
         </Card>
-    
+
     );
 }
